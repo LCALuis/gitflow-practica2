@@ -7,3 +7,7 @@ function SayHello(){
 function SayBye() {
 console.log("CHAU")
 }
+
+function Prueba() {
+    console.log("bye")
+    }
