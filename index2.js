@@ -5,7 +5,7 @@ function SayHello(){
 }
 
 function SayBye() {
-console.log("CHAU")
+console.log("CHAU CHAU CHAUUUU")
 }
 
 function Prueba() {
